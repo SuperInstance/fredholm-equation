@@ -1,0 +1,9 @@
+[package]
+name = "fredholm-equation"
+version = "0.1.0"
+description = "A Rust library for Fredholm Equation"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/fredholm-equation"
+edition = "2021"
+
+[dependencies]
